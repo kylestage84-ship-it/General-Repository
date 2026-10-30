@@ -1,12 +1,7 @@
-## Getting Started
+ ## Getting Started
 ```bash
 git clone https://github.com/kylestage84-ship-it/General-Repository.git
-cd General-Repository.git clone https://github.com/kylestage84-ship-it/General-Repository.git
-cd General-Repository
-# add your files
-git add .
-git commit -m "Initial commit"
-git push# General-Repository https://github.com/kylestage84-ship-it/General-Repository.git# General Repository
+cd General-Repositoryhttps://github.com/kylestage84-ship-it/General-Repository.git# General-Repository
 
 Personal general-purpose repository for experiments, notes, scripts, and small projects.
 
@@ -16,4 +11,4 @@ Personal general-purpose repository for experiments, notes, scripts, and small p
 - Notes and ideas
 - Small tools / utilities
 
-## StructureREADME.md
+## Structure
